@@ -1,6 +1,6 @@
 require('dotenv').config(); 
 
-global.owner = process.env.OWNER_NUMBER; 233544482494
+global.owner = process.env.OWNER_NUMBER '233544482494'
 global.anitav4 = process.env.BOT_NAME || 'OP-XMD";
 global.ownername = process.env.OWNER_NAME || "Official OnePesewa";
 global.packname = process.env.PACK_NAME || "OP-XMD";
